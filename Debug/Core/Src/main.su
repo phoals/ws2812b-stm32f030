@@ -1,0 +1,16 @@
+main.c:77:6:HAL_TIM_PWM_PulseFinishedCallback	16	static
+main.c:82:6:LED_set	24	static
+main.c:89:6:LED_send	24	static
+main.c:116:6:LED_menu	368	static
+main.c:132:6:LED_whiteMode	16	static
+main.c:138:6:LED_shutdownMode	16	static
+main.c:144:6:LED_parityMode	16	static
+main.c:156:6:LED_toggleMode	16	static
+main.c:164:6:HAL_UART_RxCpltCallback	104	dynamic
+main.c:236:5:main	8	static
+main.c:305:6:SystemClock_Config	96	static
+main.c:346:13:MX_TIM3_Init	48	static
+main.c:393:13:MX_USART1_UART_Init	8	static
+main.c:424:13:MX_DMA_Init	16	static
+main.c:441:13:MX_GPIO_Init	48	static
+main.c:468:6:Error_Handler	8	static,ignoring_inline_asm
